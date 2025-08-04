@@ -1,6 +1,6 @@
-# delta-demo1
+# delta-demo1.
 This is a Demo for Git and Github class.
-# Teacher
+# Teacher.
 Suman
-# student
+# student.
 Harshu
